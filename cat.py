@@ -1,5 +1,7 @@
-# Дом питомца (http://158.160.56.133/app/pets)
+# Класс "Кошки"
 class Cat:
+    count_of_paws = 4
+
     def __init__(self, name, gender, age):
         self.name = name
         self.gender = gender
