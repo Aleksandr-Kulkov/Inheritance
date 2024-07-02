@@ -18,7 +18,7 @@ print("Имя cat2 -", cat2.name)
 print("Пол cat2 -", cat2.gender)
 print("Возраст cat2 -", cat2.age)
 
-print("Количество лап cat2 -", cat1.count_of_paws)
+print("Количество лап cat2 -", cat2.count_of_paws)
 
 print("Имя cat2 -", cat2.getName())
 print("Пол cat2 -", cat2.getGender())
