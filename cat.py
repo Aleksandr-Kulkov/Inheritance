@@ -1,4 +1,4 @@
-# Класс "Кошки"
+# Класс Cat
 class Cat:
     count_of_paws = 4
 
