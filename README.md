@@ -1,4 +1,4 @@
-# Inheritance
+# inheritance
 
 Файл cat.py содержит класс Cat.
 
